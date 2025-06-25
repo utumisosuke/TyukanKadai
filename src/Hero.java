@@ -18,6 +18,6 @@ public class Hero extends Chraracter {
 
     }
     public void escape(){
-        System.out.println(this.name +"はにげだした!");
+        System.out.println(this.name +"は、にげだした!");
     }
 }
