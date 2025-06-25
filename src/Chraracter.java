@@ -1,7 +1,7 @@
 public abstract class Chraracter implements Creature {
     String name;
     int hp;
-    public Character(String input_name){
+    public Chraracter(String input_name){
         this.name = input_name;
         this.hp = 100;
     }

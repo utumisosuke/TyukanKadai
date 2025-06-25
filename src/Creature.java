@@ -1,3 +1,5 @@
 public  interface Creature {
-    void greething();
+    void greeting();
+
     void escape();
+}
